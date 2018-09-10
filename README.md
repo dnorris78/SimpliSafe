@@ -5,6 +5,8 @@ This is a modification of the original SmartThings device handler for SimpliSafe
  *	Modifications by Toby Harris - 2/10/2018
  *  Modifications by David A. Norris 9/8/2018
 
+9/8/2018
+
 I have made a few changes to the device handler that I will share with the group.  I have only tested with SS3 as I do not own SS2 any longer
 
 1) For SS3 the states reported from the SS API are in upper case.  I changed the attributeState in the tiles to reflect want the API is sending
